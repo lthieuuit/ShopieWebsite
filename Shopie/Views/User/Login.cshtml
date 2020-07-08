@@ -1,0 +1,58 @@
+﻿@model Shopie.Models.LoginModel
+@{
+    ViewBag.Title = "Đăng nhập";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Login", "User", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <!--breadcrumbs-->
+    <div class="breadcrumbs">
+        <div class="container">
+            <ol class="breadcrumb breadcrumb1 animated wow fadeInUp" data-wow-delay=".5s">
+                <li><a href="/home" ref="nofollow"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+                <li class="active">Sign In</li>
+            </ol>
+        </div>
+    </div>
+    <!--//breadcrumbs-->
+    <!--login-->
+    <div class="login-page">
+        <div class="title-info wow fadeInUp animated" data-wow-delay=".5s">
+            <h3 class="title">SignIn<span> Form</span></h3>
+            <p>Sign in for better experience </p>
+        </div>
+        <hr />
+        <div class="widget-shadow">
+            <div class="login-top wow fadeInUp animated" data-wow-delay=".7s">
+                <h4>Welcome back to Shopie ! <br> Not a Member ? <a>@Html.ActionLink("Register Now", "Register", "User")</a> </h4>
+            </div>
+            <div class="login-body wow fadeInUp animated" data-wow-delay=".7s">
+                <form>
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                    @Html.TextBoxFor(model => model.UserName, new { placeholder = "Username", @class = "form-input" })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                    @Html.PasswordFor(model => model.Password, new { placeholder = "Password", @class = "form-input" })
+
+                    <input type="submit" name="Sign In" value="Sign In">
+                    <div class="forgot-grid">
+                        <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Remember me</label>
+                        <div class="forgot">
+                            <a href="#">Forgot you Password ?</a>
+                        </div>
+                        <div class="clearfix"> </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="login-page-bottom">
+            <h5> - OR -</h5>
+            <a href="/User/LoginFacebook" class="btn btn-facebook btn-user btn-block">
+                <i class="fab fa-facebook-f fa-fw"></i> Login with Facebook
+            </a>
+            <hr />
+        </div>
+    </div>
+}

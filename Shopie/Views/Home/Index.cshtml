@@ -1,0 +1,137 @@
+﻿
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listnewProduct = (List<Model.EF.Product>)ViewBag.NewProducts;
+    var listPopularProduct = (List<Model.EF.Product>)ViewBag.PopularProducts;
+}
+
+<!--banner-->
+<div class="banner">
+    <div class="container">
+        <div class="banner-text">
+            <div class="col-sm-5 banner-left wow fadeInLeft animated" data-wow-delay=".5s">
+                <h2>NEW TOYs</h2>
+                <h3>Coming Soon </h3>
+
+                <div class="count main-row">
+                    <ul id="example">
+                        <li><span class="hours">00</span><p class="hours_text">Hours</p></li>
+                        <li><span class="minutes">00</span><p class="minutes_text">Minutes</p></li>
+                        <li><span class="seconds">00</span><p class="seconds_text">Seconds</p></li>
+                    </ul>
+                    <div class="clearfix"> </div>
+                    <script type="text/javascript" src="/Assets/client/js/jquery.countdown.min.js"></script>
+                    <script type="text/javascript">
+                        $('#example').countdown({
+                            date: '12/24/2020 15:59:59',
+                            offset: -8,
+                            day: 'Day',
+                            days: 'Days'
+                        }, function () {
+                            alert('Done!');
+                        });
+                    </script>
+                </div>
+
+            </div>
+            <div class="col-sm-7 banner-right wow fadeInRight animated" data-wow-delay=".5s">
+                <section class="slider grid">
+                    <div class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                <h4>-30%</h4>
+                                <img src="/Assets/client/images/b1.png" alt="">
+                            </li>
+                            <li>
+                                <h4>-25%</h4>
+                                <img src="/Assets/client/images/g8.png" alt="">
+                            </li>
+                            <li>
+                                <h4>-32%</h4>
+                                <img src="/Assets/client/images/b3.png" alt="">
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <!--FlexSlider-->
+                <script defer src="/Assets/client/js/jquery.flexslider.js"></script>
+                <script type="text/javascript">
+                    $(window).load(function () {
+                        $('.flexslider').flexslider({
+                            animation: "pagination",
+                            start: function (slider) {
+                                $('body').removeClass('loading');
+                            }
+                        });
+                    });
+                </script>
+                <!--End-slider-script-->
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!--//banner-->
+<!--new-->
+<div class="login-body">
+    <div class="container">
+        <div class="title-info" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s;">
+            <h3 class="title">New Products</h3>
+        </div>
+        <div class="new-info"style="padding-bottom: 30px;">
+            @foreach (var item in listnewProduct)
+            {
+                var url = "/chi-tiet/" + item.Metatitle + "-" + item.ID;
+                var priceitem = Convert.ToDecimal(@item.Price).ToString("N0");
+                <div class="col-md-3 gallery-grid" data-wow-delay=".5s">
+                    <a href="@url"><img height="300" width="300" src="@item.Image" class="img-responsive" alt="@item.Name" /></a>
+                    <div class="gallery-text simpleCart_shelfItem">
+                        <h5><a class="name" href="@url">@item.Name</a></h5>
+                        <p><span class="item_price">Price: ₫@priceitem</span></p>
+                        <ul>
+                            <li><a href="@url"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span></a></li>
+                            <li><a class="item_add" href="/them-gio-hang?productId=@item.ID&quantity=1"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+                        </ul>
+                        <p><span class="item_quantity">Stock: @item.Quantity</span></p>
+                    </div>
+                </div>
+            }
+
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+
+
+<!--//new-->
+<!--gallery-->
+<div class="gallery" style="padding-top: 0px; padding-bottom: 20px;">
+    <div class="container">
+        <div class="title-info wow fadeInUp animated" data-wow-delay=".5s">
+            <h3 class="title">Popular Products</h3>
+           
+        </div>
+        <div class="gallery-info">
+            @foreach (var item in listPopularProduct)
+            {
+                var url = "/chi-tiet/" + item.Metatitle + "-" + item.ID;
+                var priceitem = Convert.ToDecimal(@item.Price).ToString("N0");
+                <div class="col-md-3 gallery-grid" data-wow-delay=".5s">
+                    <a href="@url"><img height="300" width="300" src="@item.Image" class="img-responsive" alt="@item.Name" /></a>
+                    <div class="gallery-text simpleCart_shelfItem">
+                        <h5><a class="name" href="@url">@item.Name</a></h5>
+                        <p><span class="item_price">Price: ₫@priceitem</span></p>
+                        <ul>
+                            <li><a href="@url"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span></a></li>
+                            <li><a class="item_add" href="/them-gio-hang?productId=@item.ID&quantity=1"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+                        </ul>
+                        <p><span class="item_quantity">Stock: @item.Quantity</span></p>
+                    </div>
+                </div>
+            }
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--//gallery-->

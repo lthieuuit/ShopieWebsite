@@ -1,0 +1,20 @@
+﻿@model List<Model.EF.Menu>
+@{
+    var session = (UserLogin)Session[Shopie.Common.CommonConstants.USER_SESSION];
+}
+@if (session == null)
+{
+    <div class="nav navbar-nav navbar-left wow fadeInLeft animated" data-wow-delay=".5s">
+        <p>
+            Welcome to Shopie!
+            @Html.ActionLink("Register Now", "Register", "User") Or
+            @Html.ActionLink("Sign In", "Login", "User")
+        </p>
+    </div>
+}
+else
+{
+    <div class="nav navbar-nav navbar-right wow fadeInRight animated" data-wow-delay=".5s">
+        <p>Hello @session.UserName! | @Html.ActionLink("Log out", "Logout", "User")</p>
+    </div>
+}

@@ -1,0 +1,110 @@
+﻿@model List<Shopie.Models.CartItem>
+
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section jsFooter{
+    <script src="/Assets/client/js/controller/cartController.js"></script>
+}
+@{
+    decimal sumPrice = 0;
+    decimal Sum = 0;
+}
+<div class="breadcrumbs">
+    <div class="container">
+        <ol class="breadcrumb breadcrumb1 animated wow fadeInUp" data-wow-delay=".5s">
+            <li><a href="/home" ref="nofollow"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home </a></li>
+            <li class="active">Payment</li>
+        </ol>
+    </div>
+</div>
+
+
+@if (Model.Count > 0)
+{
+    <div class="new-top">
+
+        <div class="container">
+            <div class="title-info wow fadeInUp animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;margin-bottom: 1em;">
+                <h3 class="title">BiLL <span>information</span></h3>
+            </div>
+            @foreach (var item in Model)
+            {
+                var picktime = @DateTime.Now;
+                var url = "/chi-tiet/" + item.Product.Metatitle + "-" + item.Product.ID;
+                @sumPrice += Convert.ToDecimal(@item.Product.Price);
+                @Model.Sum(i => i.Product.Price * i.Quantity);
+                Sum = Convert.ToDecimal(@Model.Sum(i => i.Product.Price * i.Quantity));
+                <div class="cart-header wow animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+
+                    <div class="cart-item cyc">
+                        <a href="#"><img src="@item.Product.Image" class="img-responsive" alt=""></a>
+                    </div>
+                    <div class="cart-item-info">
+                        <div class="delivery">
+                            <h4> <a href="@url"> @item.Product.Name </a></h4>
+                        </div>
+                        <div class="clearfix"></div>
+                        <p>Date: @picktime</p>
+                        <div class="quantity">
+                            <p>Quantity <input min="1" class="item_quantity" data-id="@item.Product.ID" readonly="readonly" value="@item.Quantity"></p>
+                            <p>Price: ₫@item.Product.Price.GetValueOrDefault(0).ToString("N0")</p>
+                            <p id="total1pro">Total: ₫@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</p>
+                        </div>
+                        <div class="delivery">
+                            <p>FREE ship</p>
+                            <span>Delivered within 2 hours in HCM City</span>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                </div>
+            }
+            <div class="title-info wow fadeInUp animated" data-wow-delay=".5s" style="visibility: visible; animation-name: fadeInUp;margin-bottom: 0px;">
+                <h2>Shopie Toy Shop</h2>
+            </div>
+            <div class="login-page" style="padding-bottom: 0px;padding-top: 0px;">
+                <form>
+                    <div class="delivery" style="margin-top: 2em;">
+                        <p>Shipping:</p>
+                        <span>FREE ship</span>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="delivery" style="margin-top: 1em;">
+                        <p>SUB TOTAL:</p>
+                        <span>₫@Sum.ToString("N0")</span>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="delivery" style="margin-top: 0em;">
+                        <hr />
+                        <p>GRAND TOTAL:</p>
+                        <span>₫@Sum.ToString("N0")</span>
+                    </div>
+                    <div class="clearfix"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+@using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="new-bottom">
+        <div class="login-page" style="padding-top: 0em;padding-bottom: 20px;">
+            <div class="login-body wow fadeInUp animated animated" data-wow-delay=".7s" style="visibility: visible;animation-delay: 0.7s;animation-name: fadeInUp;padding-top: 0px;">
+                <div class="title-info wow fadeInUp animated" data-wow-delay=".5s" style="visibility: visible;animation-delay: 0.5s;animation-name: fadeInUp;margin-bottom: 20px;">
+                    <h3 class="title">Personal <span>information</span></h3>
+                </div>
+                <form>
+                    <input type="text" name="shipName" placeholder="Enter your full name*" required=""  oninvalid="this.setCustomValidity('Please Enter your full name')" oninput="setCustomValidity('')" >
+                    <input type="text" name="address" placeholder="Enter your Address*"required="" oninvalid="this.setCustomValidity('Please Enter your Address')" oninput="setCustomValidity('')">
+                    <input type="text" name="mobile" placeholder="Enter your phone number*"required="" oninvalid="this.setCustomValidity('Please Enter your phone number')" oninput="setCustomValidity('')">
+                    <input type="text" name="email" placeholder="Enter your email*" required="" oninvalid="this.setCustomValidity('Please Enter your email')" oninput="setCustomValidity('')">
+                    <input type="submit" style="background: #f35261" value="CHECK OUT" />
+                </form>
+            </div>
+        </div>
+    </div>
+}

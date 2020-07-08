@@ -1,0 +1,16 @@
+﻿@model List<Shopie.Models.CartItem>
+@section jsFooter{
+    <script src="/Assets/client/js/controller/cartController.js"></script>
+}
+<div class="header-right cart">
+    <a href="/gio-hang"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a>
+    <h4>
+        <a href="/gio-hang">
+            <span> (@Model.Count()) </span>
+        </a>
+    </h4>
+    <div class="btn_form">
+        <p><a id="btnDeleteCart1" class="add-cart item_add">Empty Cart</a></p>
+        <div class="clearfix"> </div>
+    </div>
+</div>

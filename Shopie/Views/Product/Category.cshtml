@@ -1,0 +1,98 @@
+﻿@model List<Shopie.Models.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listProduct = (List<Model.EF.Product>)ViewBag.CategoryProduct;
+    var listCategory = (List<Model.EF.ProductCategory>)ViewBag.Category;
+
+}
+
+<!--products-->
+<div class="products">
+    <div class="container">
+        <style>
+            img {
+                width: 220px;
+                height: 280px;
+            }
+        </style>
+        <div class="col-md-9 product-model-sec">
+
+            @foreach (var item in listProduct)
+            {
+                var url = "/chi-tiet/" + item.Metatitle + "-" + item.ID;
+
+                <div class="product-grids simpleCart_shelfItem wow fadeInUp animated" data-wow-delay=".5s">
+
+                    <div class="new-top">
+                        <img src="@item.Image">
+                        <div class="new-text">
+                            <ul>
+                                <li><a href="@url"><span class="glyphicon glyphicon-globe" aria-hidden="true">Show detail</span></a></li>
+                                <li><a class="item_add" href="/them-gio-hang?productId=@item.ID&quantity=1"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true">Add to cart</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="new-bottom">
+                        <h5><a class="name" href="@url">@item.Name</a></h5>
+                        <div>
+                            @{ var priceitem = Convert.ToDecimal(@item.Price).ToString("N0");}
+                            <p class="item_price" style="text-align:left">₫@priceitem</p> <p class="item_quantity" style="text-align:right">@item.Quantity</p>
+                        </div>
+                    </div>
+                </div>
+            }
+            <div class="clearfix"></div>
+        </div>
+        <div class="col-md-3 rsidebar">
+            <div class="rsidebar-top">
+
+                <div class="sidebar-row">
+                    <h4> Category </h4>
+                    @foreach (var item in listCategory)
+                    {
+
+                        <li class="subitem1"><a href="/Product/Category/@item.ID">@item.Name</a></li>
+                    }
+
+                    <!-- script for tabs -->
+                    <script type="text/javascript">
+                        $(function () {
+
+                            var menu_ul = $('.faq > li > ul'),
+                                menu_a = $('.faq > li > a');
+
+                            menu_ul.hide();
+
+                            menu_a.click(function (e) {
+                                e.preventDefault();
+                                if (!$(this).hasClass('active')) {
+                                    menu_a.removeClass('active');
+                                    menu_ul.filter(':visible').slideUp('normal');
+                                    $(this).addClass('active').next().stop(true, true).slideDown('normal');
+                                } else {
+                                    $(this).removeClass('active');
+                                    $(this).next().stop(true, true).slideUp('normal');
+                                }
+                            });
+
+                        });
+                    </script>
+                    <!-- script for tabs -->
+                </div>
+                <div class="sidebar-row">
+                    <h4>Color</h4>
+                    <div class="row row1 scroll-pane">
+                        <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>White</label>
+                        <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Pink</label>
+                        <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Gold</label>
+                        <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Silver</label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+<!--//products-->

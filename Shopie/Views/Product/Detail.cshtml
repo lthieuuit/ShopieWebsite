@@ -1,0 +1,101 @@
+﻿@model Model.EF.Product
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var category = (Model.EF.ProductCategory)ViewBag.Category;
+}
+<style>
+    img-responsive {
+        width: 300px;
+        height: 300px;
+    }
+</style>
+<div class="breadcrumbs">
+    <div class="container">
+        <ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
+            <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+            <li class="active">Detail</li>
+        </ol>
+    </div>
+</div>
+<div class="single">
+    <div class="container">
+        <div class="single-info">
+            <div class="col-md-6 single-top" data-wow-delay=".5s" style="visibility: visible;">
+                <div class="flexslider">
+                    <div style="overflow: hidden; position: relative;">
+                        <img width="400" height="400" src="@Model.Image" alt="" draggable="false">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 single-top-left simpleCart_shelfItem wow fadeInRight animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
+                <h3>@Model.Name</h3>
+                <div class="single-rating">
+                    <span class="starRating">
+                        <input id="rating5" type="radio" name="rating" value="5" checked="">
+                        <label for="rating5">5</label>
+                        <input id="rating4" type="radio" name="rating" value="4">
+                        <label for="rating4">4</label>
+                        <input id="rating3" type="radio" name="rating" value="3">
+                        <label for="rating3">3</label>
+                        <input id="rating2" type="radio" name="rating" value="2">
+                        <label for="rating2">2</label>
+                        <input id="rating1" type="radio" name="rating" value="1">
+                        <label for="rating1">1</label>
+                    </span>
+                </div>
+                <h6 class="item_price">₫@(Model.Price.HasValue ? Model.Price.Value.ToString("N0") : "Liên hệ")</h6>
+                <p>Tình trạng: @Model.Detail</p>
+                <div class="clearfix"> </div>
+                <div class="btn_form">
+                    <a href="/them-gio-hang?productId=@Model.ID&quantity=1" class="add-cart item_add">ADD TO CART</a>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <!--collapse-tabs-->
+        <div class="collpse tabs">
+            <div class="panel-group collpse" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default wow fadeInUp animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Description
+                            </a>
+                        </h4>
+                    </div>
+                    <div>
+                        <div class="panel-body">
+                            @Model.Description
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default wow fadeInUp animated animated" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Additional Information
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--//collapse -->
+        <!--related-products-->
+        <div class="related-products">
+            <div class="title-info wow fadeInUp animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <h3 class="title">Related<span> Products</span></h3>
+                <a href="/san-pham">Click for more</a>
+            </div>
+
+        </div>
+        <!--//related-products-->
+    </div>
+</div>

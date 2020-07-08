@@ -1,0 +1,645 @@
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Shopie.dll.config
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Shopie.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Shopie.pdb
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\csc.exe
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\csc.exe.config
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\csc.rsp
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\csi.exe
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\csi.rsp
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\vbc.exe
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\vbc.rsp
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Helpers.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Mvc.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Optimization.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Razor.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\WebGrease.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Helpers.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Mvc.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Optimization.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.Razor.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\lthie\source\repos\Shopie\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\lthie\source\repos\Shopie\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\lthie\source\repos\Shopie\Shopie\obj\Debug\Shopie.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\obj\Debug\Shopie.pdb
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Model.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\EntityFramework.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Model.pdb
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\Model.dll.config
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\EntityFramework.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\PagedList.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\PagedList.Mvc.dll
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\PagedList.xml
+C:\Users\lthie\source\repos\Shopie\Shopie\bin\PagedList.Mvc.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Shopie.dll.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Shopie.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Shopie.pdb
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.exe
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.exe.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.rsp
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\csi.exe
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\csi.rsp
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.exe
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.rsp
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Model.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\PagedList.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\PagedList.Mvc.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Helpers.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Mvc.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Optimization.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Razor.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\WebGrease.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Model.pdb
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Model.dll.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\PagedList.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\PagedList.Mvc.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Helpers.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Mvc.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Optimization.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.Razor.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Shopie.dll.config
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Model.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\PagedList.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Model.pdb
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Model.dll.config
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\PagedList.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Shopie-master\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Shopie-master\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Shopie-master\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shopie-master\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\Admin\Desktop\Shopie-master\Shopie\obj\Debug\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master\Shopie\obj\Debug\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Shopie.dll.config
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Model.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\PagedList.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Model.pdb
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Model.dll.config
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\PagedList.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\obj\Debug\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master - Copy\Shopie\obj\Debug\Shopie.pdb
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Shopie.dll.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Shopie.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Shopie.pdb
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Model.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\PagedList.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\WebGrease.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Model.pdb
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Model.dll.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\PagedList.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\obj\Debug\Shopie.pdb
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\BotDetect.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.xml
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\BotDetect.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Facebook.dll
+C:\Users\Admin\Documents\GitHub\Shopie\Shopie\bin\Facebook.xml
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Facebook.dll
+C:\Users\lthie\Documents\GitHub\Shopie\Shopie\bin\Facebook.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.pdb
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.pdb
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.pdb
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.rsp
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.exe
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.rsp
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.rsp
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\WebGrease.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.pdb
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.dll
+C:\Users\lthie\Desktop\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.pdb
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Shopie.pdb
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.exe.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csc.rsp
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.exe
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\csi.rsp
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\vbc.rsp
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\WebGrease.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Model.pdb
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Model.dll.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Facebook.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\PagedList.Mvc.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Helpers.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Mvc.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Optimization.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.Razor.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.dll
+C:\Users\lthie\Desktop\Shopie-372020 (2)\Shopie-372020\Shopie-master372020\Shopie\obj\Debug\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Shopie.dll.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Shopie.pdb
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\BotDetect.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Facebook.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Model.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\PagedList.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Model.pdb
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Model.dll.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Facebook.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\PagedList.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\obj\Debug\Shopie.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\obj\Debug\Shopie.csproj.CopyComplete
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\obj\Debug\Shopie.dll
+C:\Users\Admin\Desktop\Shopie-master372020\Shopie\obj\Debug\Shopie.pdb

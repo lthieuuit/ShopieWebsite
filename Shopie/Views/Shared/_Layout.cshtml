@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopie | Toy Shop</title>
+    <link rel="shortcut icon" type="image/png" href="~/Assets/Favicon/shopie.png" />
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Shopie Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--//for-mobile-apps -->
+    <!--Custom Theme files -->
+    <link href="/Assets/client/css/boostrap-social.css" rel="stylesheet" />
+    <link href="/Assets/client/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Assets/client/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="/Assets/client/css/flexslider.css" type="text/css" media="screen" />
+    <!--//Custom Theme files -->
+    <!--js-->
+    <script src="/Assets/client/js/jquery-1.12.4.min.js"></script>
+    <script src="/Assets/client/js/modernizr.custom.js"></script>
+    <!--//js-->
+    <!--cart-->
+    <script src="/Assets/client/js/simpleCart.min.js"></script>
+    <!--cart-->
+    <!--web-fonts-->
+    <link href='//fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Fascinate' rel='stylesheet' type='text/css'>
+    <!--web-fonts-->
+    <!--animation-effect-->
+    <link href="/Assets/client/css/animate.min.css" rel="stylesheet">
+    <script src="/Assets/client/js/wow.min.js"></script>
+    <link href="/Assets/client/css/jquery-ui.css" rel="stylesheet" />
+    <script>
+        new WOW().init();
+    </script>
+    <!--//animation-effect-->
+    <!--start-smooth-scrolling-->
+    <script type="text/javascript" src="/Assets/client/js/move-top.js"></script>
+    <script type="text/javascript" src="/Assets/client/js/easing.js"></script>
+    <script src="/Assets/client/js/jquery-ui.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+        });
+    </script>
+    <!--//end-smooth-scrolling-->
+</head>
+<body>
+    <!--header-->
+    <div class="header">
+        <div class="top-header navbar navbar-default">
+            <!--header-one-->
+            <div class="container">
+                <ul>@{ Html.RenderAction("TopMenu", "Home");}</ul>
+            </div>
+        </div>
+        <div class="header-two navbar navbar-default">
+            <!--header-two-->
+            <div class="container">
+                <div class="nav navbar-nav header-two-left">
+                    <ul>
+                        <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>0842264686-0965762752</li>
+                        <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:lthieu.la1999@gmail.com">Send Email</a></li>
+                    </ul>
+                </div>
+                <div class="nav navbar-nav logo wow zoomIn animated" data-wow-delay=".7s">
+                    <h1><a href="/home" ref="nofollow">SHOP<b>IE</b><span class="tag">World of Toys </span> </a></h1>
+                </div>
+                <div class="nav navbar-nav navbar-right header-two-right">
+                    <div class="header-right my-account">
+                        <a href="/about"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> CONTACT US</a>
+                    </div>
+                    @{Html.RenderAction("HeaderCart", "Home"); }
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+        <div class="top-nav navbar navbar-default">
+            <!--header-three-->
+            <div class="container">
+                <nav class="navbar" role="navigation">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <!--navbar-header-->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav top-nav-info">
+                            @{ Html.RenderAction("MainMenu", "Home");}
+                        </ul>
+                        <div class="clearfix"> </div>
+                        <!--//navbar-collapse-->
+                        <header class="cd-main-header">
+                            <ul class="cd-header-buttons">
+                                <li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li>
+                            </ul> <!-- cd-header-buttons -->
+                        </header>
+                    </div>
+                    <!--//navbar-header-->
+                </nav>
+                <div id="cd-search" class="cd-search">
+                    <form action="/tim-kiem" method="get">
+                        <input type="search" id="txtKeyword" name="keyword" placeholder="Search..." style="padding-top: 0.5em;padding-bottom: 0.5em;">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--//header-->
+    @RenderBody()
+    <!--footer-->
+    <div class="footer">
+        <div class="container">
+            <div class="footer-info">
+                <div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".5s">
+                    <h4 class="footer-logo"><a href="#">SHOP<b>IE</b><span class="tag">World of Toys  </span>  </a></h4>
+                    <p>Shopie | <a href="http://facebook.com/hieu.t.fate" target="_blank">Hiếu Lê </a> <a>|</a> <a href="https://www.facebook.com/edu.kuule/"> Lê Đoàn</a></p>
+                    <p>© 2020 Shopie. All rights reserved </p>
+                </div>
+                <div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".7s">
+                    <h3>Popular</h3>
+                    <ul>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/Products/Index">new</a></li>
+                        <li><a href="/about">Contact Us</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
+                    <h3>Subscribe</h3>
+                    <p>Sign Up Now For More Information <br> About Our Company </p>
+                    <form>
+                        <input type="text" placeholder="Enter Your Email" required="">
+                        <input type="submit" value="Go">
+                    </form>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!--//footer-->
+    <!--search jQuery-->
+    <script src="/Assets/client/js/main.js"></script>
+    <!--//search jQuery-->
+    <!--smooth-scrolling-of-move-up-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+            };
+
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <!--//smooth-scrolling-of-move-up-->
+    <!--Bootstrap core JavaScript
+    ================================================== -->
+    <!--Placed at the end of the document so the pages load faster -->
+    <script src="/Assets/client/js/bootstrap.js"></script>
+    <a href="" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 0;"></span>To Top</a>
+    <script src="/Assets/client/js/controller/baseController.js"></script>
+    @RenderSection("jsFooter", required: false)
+</body>
+</html>

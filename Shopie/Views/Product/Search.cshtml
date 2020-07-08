@@ -1,0 +1,42 @@
+﻿@model List<Shopie.Models.CartItem>
+@{
+    ViewBag.Title = "Search result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listkeyword = (List<Model.EF.Product>)ViewBag.Keyword;
+
+}
+
+<!--products-->
+<div class="products">
+    <div class="container">
+        <style>
+            img {
+                width: 220px;
+                height: 280px;
+            }
+        </style>
+            <div class="col-md-9 product-model-sec">
+
+                @foreach (var item in listkeyword)
+                { 
+                    var url = "/chi-tiet/" + item.Metatitle + "-" + item.ID;
+                    <div class="col-md-3 gallery-grid wow flipInY animated" data-wow-delay=".5s">
+                        <a href="@url"><img src="@item.Image" class="img-responsive" alt="@item.Name" /></a>
+                        <div class="gallery-text simpleCart_shelfItem">
+                            <h5><a class="name" href="@url">@item.Name</a></h5>
+                            @{ var priceitem = Convert.ToDecimal(@item.Price).ToString("N0");}
+                            <p><span class="item_price">Price: ₫@priceitem</span></p>
+                            <ul>
+                                <li><a href="#"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span></a></li>
+                                <li><a class="item_add" href="/them-gio-hang?productId=@item.ID&quantity=1"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon glyphicon-heart-empty" aria-hidden="true"></span></a></li>
+                            </ul>
+                            <p><span class="item_quantity">Stock: @item.Quantity</span></p>
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+    </div>
+</div>
+<!--//products-->
